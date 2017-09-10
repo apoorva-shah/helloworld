@@ -6,6 +6,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Worderful Composer!';
+        return 'Hello World, I see updated version!';
     }
 }
